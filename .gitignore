@@ -23,8 +23,6 @@ ENV/
 .DS_Store
 
 # Static and Media Files
-staticfiles/
-media/
 # Specifically ignoring the actor and movie image folders (which reside in media/)
-actor_image/
-movie_image/
+media/actor_image/
+media/movie_image/
