@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Virtual Environments
+venv/
+.env
+.venv
+env/
+ENV/
+
+# IDEs / System
+.vscode/
+.idea/
+.DS_Store
+
+# Static and Media Files
+staticfiles/
+media/
+# Specifically ignoring the actor and movie image folders (which reside in media/)
+actor_image/
+movie_image/
