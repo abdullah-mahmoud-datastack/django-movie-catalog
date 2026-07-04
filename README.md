@@ -7,6 +7,8 @@ A beautifully crafted Django web application designed to catalog and showcase a 
 ![Frontend](https://img.shields.io/badge/Frontend-Bootstrap_5-7952B3?logo=bootstrap)
 
 ---
+![GUI of App](Movies_intercate.png)
+---
 
 ## ✨ Features
 
